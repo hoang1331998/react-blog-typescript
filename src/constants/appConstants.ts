@@ -1,0 +1,7 @@
+export const DEFAULT_TIME_AUTO_HIDE_TOASTIFY = 3000 // default toastify
+
+export const REQUEST_SUCCESS_CODE = 200
+export const BAD_REQUEST_CODE = 400
+export const FORBIDDEN_REQUEST_CODE = 403
+export const UNAUTHORIZED_REQUEST_CODE = 401
+export const NOTFOUND_REQUEST_CODE = 404
